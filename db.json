@@ -1,29 +1,107 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Planejamento"
-        },
-        {
-            "id": 5,
-            "name": "Arquitetura"
-        },
-        {
-            "id": 6,
-            "name": "Outros"
-        }
-    ]
+  "projects": [
+    {
+      "id": "4b5b",
+      "name": "Teste",
+      "budget": "60000",
+      "category": {
+        "id": "4",
+        "nome": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "4d54",
+      "name": "Teste",
+      "budget": "60000",
+      "category": {
+        "id": "4",
+        "nome": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7ea3",
+      "name": "abcd",
+      "budget": "30000",
+      "category": {
+        "id": "1",
+        "nome": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "43fb",
+      "name": "Teste",
+      "budget": "35000",
+      "category": {
+        "id": "3",
+        "nome": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7d17",
+      "name": "Teste",
+      "budget": "35000",
+      "category": {
+        "id": "3",
+        "nome": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c9ed",
+      "name": "projeto teste",
+      "budget": "60000",
+      "category": {
+        "id": "2",
+        "nome": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "acd2",
+      "name": "projeto teste",
+      "budget": "60000",
+      "category": {
+        "id": "5",
+        "nome": "Arquitetura"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    },
+    {
+      "id": "5",
+      "name": "Arquitetura"
+    },
+    {
+      "id": "6",
+      "name": "Outros"
+    }
+  ]
 }
