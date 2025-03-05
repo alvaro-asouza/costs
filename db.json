@@ -1,28 +1,6 @@
 {
   "projects": [
     {
-      "id": "98b5",
-      "name": "Projeto teste 1",
-      "budget": "60000",
-      "category": {
-        "id": "4",
-        "nome": "Planejamento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "621d",
-      "name": "Projeto teste 2",
-      "budget": "35000",
-      "category": {
-        "id": "3",
-        "nome": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "297f",
       "name": "projeto teste 3",
       "budget": "20000",
