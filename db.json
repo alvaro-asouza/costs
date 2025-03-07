@@ -13,11 +13,11 @@
     },
     {
       "id": "d29a",
-      "name": "Novo projeto 2",
-      "budget": "35000",
+      "name": "Projeto da dai",
+      "budget": "20000",
       "category": {
-        "id": "2",
-        "nome": "Desenvolvimento"
+        "id": "1",
+        "nome": "Infra"
       },
       "cost": 0,
       "services": []
