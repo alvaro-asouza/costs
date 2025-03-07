@@ -19,7 +19,7 @@
         "id": "1",
         "nome": "Infra"
       },
-      "cost": 200,
+      "cost": 1500,
       "services": [
         {
           "name": "Novo serviço",
@@ -32,6 +32,24 @@
           "cost": "100",
           "description": "Faz isso aqui",
           "id": "aac7a3bf-fedf-4a53-bb14-3666e1f5c9ae"
+        },
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "600",
+          "description": "Vai criar a função de envio de e-mails",
+          "id": "6f039250-c53c-4625-8b4a-c43d767e00f7"
+        },
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "600",
+          "description": "Vai criar a função de envio de e-mails",
+          "id": "6f039250-c53c-4625-8b4a-c43d767e00f7"
+        },
+        {
+          "name": "Novo serviço",
+          "cost": "100",
+          "description": "Teste",
+          "id": "177c9737-e827-42fc-9f72-8b7707bf3ca1"
         }
       ]
     }
