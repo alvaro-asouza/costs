@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "e1e0",
-      "name": "Projeto teste 4",
-      "budget": "25000",
+      "name": "Projeto atualizado",
+      "budget": "15000",
       "category": {
-        "id": "4",
-        "nome": "Planejamento"
+        "id": "5",
+        "nome": "Arquitetura"
       },
       "cost": 0,
       "services": []
